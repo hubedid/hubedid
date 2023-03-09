@@ -39,6 +39,4 @@ Web Development, Back-end, Cloud-Computing
 -->
 
 [![Hubed's github stats](https://github-readme-stats.vercel.app/api?username=hubedid&theme=tokyonight&show_icons=true)](https://github.com/hubedid)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubedid&layout=compact&theme=tokyonight)](https://github.com/hubedid)
