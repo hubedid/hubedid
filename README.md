@@ -38,5 +38,5 @@ Web Development, Back-end, Cloud-Computing
 ![](http://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 -->
 
-[![Hubed's github stats](https://github-readme-stats.vercel.app/api?username=hubedid&theme=tokyonight&show_icons=true)](https://github.com/hubedid)
+<!-- [![Hubed's github stats](https://github-readme-stats.vercel.app/api?username=hubedid&theme=tokyonight&show_icons=true)](https://github.com/hubedid) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubedid&layout=compact&theme=tokyonight)](https://github.com/hubedid)
